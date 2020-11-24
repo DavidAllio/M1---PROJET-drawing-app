@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>ressources/Triangle.png</file>
+        <file>ressources/transform_rotate.png</file>
+        <file>ressources/Text2.png</file>
+        <file>ressources/Square.png</file>
+        <file>ressources/Save-as.png</file>
+        <file>ressources/save.png</file>
+        <file>ressources/picture.png</file>
+        <file>ressources/move.png</file>
+        <file>ressources/folder_vertical_open.png</file>
+        <file>ressources/File_Add.png</file>
+        <file>ressources/draw_line.png</file>
+        <file>ressources/Circle.png</file>
+        <file>ressources/Pointer.png</file>
+        <file>ressources/Help.png</file>
+        <file>ressources/Pencil.png</file>
+        <file>ressources/Tools.png</file>
+        <file>ressources/Export.png</file>
+        <file>ressources/Import.png</file>
+        <file>ressources/zoom_out.png</file>
+        <file>ressources/zoom_in.png</file>
+        <file>ressources/drawings.png</file>
+        <file>ressources/mouse_pointer.png</file>
+        <file>ressources/draw_polyline.png</file>
+        <file>ressources/tuto.gif</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>ressources/Redo.png</file>
+        <file>ressources/Undo.png</file>
+        <file>ressources/icons8-list-80.png</file>
+    </qresource>
+</RCC>
